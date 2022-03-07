@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321549163367",
+    "firebase_url": "https://recommendating-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "recommendating",
+    "storage_bucket": "recommendating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321549163367:android:7a5540d30bfef90c84adc2",
+        "android_client_info": {
+          "package_name": "com.kinetic.recommendating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321549163367-j3k8ei0vo53kuascmqb76igfjpupniai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yh9G40stR9NzEtB4EX2G2fiSTS2wFA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321549163367-j3k8ei0vo53kuascmqb76igfjpupniai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

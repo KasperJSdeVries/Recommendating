@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recommendating</string>
+    <string name="prompt_message">Message</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="prompt_account_creation" >No account?</string>
+    <string name="warning_invalid_password">Password must be at least 6 characters long!</string>
+    <string name="warning_invalid_email">Invalid Email!</string>
+    <string name="prompt_confirm_password">Please confirm your password:</string>
+    <string name="prompt_confirm">Confirm</string>
+    <string name="prompt_sign_out">Sign out</string>
+</resources>
